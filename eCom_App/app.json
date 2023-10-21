@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "eCom_App",
+    "slug": "eCom_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/r_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash_screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
